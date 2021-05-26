@@ -1,6 +1,6 @@
 # Data Valuation using Reinforcement Learning
 
-[My Slides]("Data Valuation RL.pdf")
+[My Slides](https://github.com/onuralg/data-valuation-rl/blob/main/Data%20Valuation%20RL.pdf)
 
 [Paper](https://arxiv.org/pdf/1909.11671.pdf)
 
